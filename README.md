@@ -4,16 +4,11 @@ Graduation Project | IT Department - Taif University
 **Yusr** (meaning "Ease" in Arabic) is a comprehensive mobile application designed to transform the Hajj and Umrah experience. By integrating cutting-edge AI and cloud technologies, the app serves as a digital companion that guides pilgrims through their spiritual journey, ensuring safety, clarity, and ease of worship.
 
 ## Application gallery
-## 📱 App UI Gallery
 
-| Screen 1 | Screen 2 | Screen 3 | Screen 4 |
+| | | | |
 | :---: | :---: | :---: | :---: |
-| <img src="رابط_1" width="160" /> | <img src="رابط_2" width="160" /> | <img src="رابط_3" width="160" /> | <img src="رابط_4" width="160" /> |
-
-| Screen 5 | Screen 6 | Screen 7 | Screen 8 |
-| :---: | :---: | :---: | :---: |
-| <img src="رابط_5" width="160" /> | <img src="رابط_6" width="160" /> | <img src="رابط_7" width="160" /> | <img src="رابط_8" width="160" /> |
-
+| <img src="WhatsApp Image 2026-04-30 at 08.37.20 (1).jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.20 (2).jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.20.jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.21 (1).jpeg" width="160" /> |
+| <img src="WhatsApp Image 2026-04-30 at 08.37.21 (2).jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.21 (4).jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.21.jpeg" width="160" /> | <img src="WhatsApp Image 2026-04-30 at 08.37.21 (3).jpeg" width="160" /> |
 ## Key Features
 - **AI Smart Assistant:** A real-time chatbot powered by Google Gemini AI to answer religious and logistical inquiries instantly.
 - **User Management:** Secure authentication system for pilgrims to manage their profiles and ritual progress.
